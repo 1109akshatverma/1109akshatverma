@@ -1,7 +1,28 @@
-- 👋 Hi, I’m Akshat Verma
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack Development
-- 📫 How to reach me insta - @akshat.1109 & mail:akshat110902@gmail.com
+# Akshat Verma
+
+📍 Dehradun, Uttarakhand  
+📧 av.akshat@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/akshatverma2025/)  
+
+## 👨‍💻 About Me
+Aspiring software developer , Cloud Architect. Passionate about technology, problem-solving, and continuous learning. Seeking opportunities to leverage my skills in a dynamic organization.
+
+## 🎓 Education
+**B.Tech in Computer Science** (2021 – 2025)  
+Dev Bhoomi Uttarakhand University
+
+## 🛠️ Skills
+### Programming Languages:
+- Python, Java, C, JavaScript
+### Technologies & Tools:
+- React, HTML, CSS, Git, GitHub, MySQL, MongoDB
+### Soft Skills:
+- Team Management, Problem Solving, Adaptability, Communication
+
+## 📜 Certifications
+- Java Software Developer – Infosys & ICT Academy
+- Google Cloud Certification – GDSC
+- Java DSA & Python Basics – Udemy
 
 
 <!---
